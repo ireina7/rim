@@ -1,0 +1,9 @@
+[package]
+name = "rim"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.28.1"
+termion = "4.0.2"
+unicode-segmentation = "1.12.0"
